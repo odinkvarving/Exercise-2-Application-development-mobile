@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Arbeidskrav 2</string>
+    <string name="Adder">Adder</string>
+    <string name="Multipliser">Multipliser</string>
+    <string name="Svar">Svar: </string>
+    <string name="ØvreGrense">Øvre grense: </string>
+    <string name="Riktig">Riktig!</string>
+    <string name="Feil">Feil. Riktig svar er: </string>
+    
+</resources>
